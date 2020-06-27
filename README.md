@@ -14,10 +14,10 @@ This page contains structures build with the **nanocomposite** tool.  There are 
  
 * 03_PEEK125_CNT4
 
-  Equilibrated structures for polyether ether ketone melt composed of 125 polymer chains.   The polymer melt contains four embedded double-walled CNTs. The MD equilibrations were performed at 300K and 1 atm. pressure
+  Equilibrated structures for polyether ether ketone melt composed of 125 polymer chains.   The polymer melt contains four embedded double-walled CNTs. The MD equilibrations were performed at 300K and 1 atm. pressure
 
 
 * 04_PEEK125_CNT6
 
-  Equilibrated structures for polyether ether ketone melt composed of 125 polymer chains.   The polymer melt contains six embedded double-walled CNTs. The MD equilibrations were performed at 300K and 1 atm. pressure
+  Equilibrated structures for polyether ether ketone melt composed of 125 polymer chains.   The polymer melt contains six embedded double-walled CNTs. The MD equilibrations were performed at 300K and 1 atm. pressure
 
