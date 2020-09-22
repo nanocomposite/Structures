@@ -2,6 +2,10 @@
 
 This page contains structures build with the **nanocomposite** tool.  There are two files in each directory: a structure file (PSF format) and a coordinate file (PDB format). All MD systems were equilibrated at 300K and 1 atm. pressure.
 
+The structures are free to use, but please do not forget to acknowledge the following paper:  
+
+Mechanical Characterization and Induced Crystallization in Nanocomposites of Thermoplastics and Carbon Nanotubes. *E. R. Cruz-Chu, G. J. Villegas-Rodriguez, T. Jager, L. Valentini, N. Pugno, K. Gkagkas, F. Grater.* NPJ Computational Materials. **2020** (6). Accepted.
+
  
 * 10_PS125
 
