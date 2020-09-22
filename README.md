@@ -1,6 +1,6 @@
 # Structures
 
-This page contains structures build with the **nanocomposite** tool.  There are two files in each directory: a structure file (PSF format) and a coordinate file (PDB format). All MD systems were equilibrated at 300K and 1 atm. pressure.
+This page contains structures build with the **nanocomposite** tool.  There are two files in each directory: a structure file (PSF format) and a coordinate file (PDB format). All MD systems were equilibrated at 300K and 1 atm.
 
 The structures are free to use, our only request is to acknowledge the following publication:  
 
